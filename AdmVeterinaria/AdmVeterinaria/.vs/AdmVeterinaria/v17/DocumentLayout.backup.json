@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\AdmVeterinaria\\AdmVeterinaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFF39090-CD0B-4D6D-A61B-0DE6690DAB8F}|AdmVeterinaria\\AdmVeterinaria.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\admveterinaria\\admveterinaria\\admveterinaria\\services\\atenciondatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFF39090-CD0B-4D6D-A61B-0DE6690DAB8F}|AdmVeterinaria\\AdmVeterinaria.csproj|solutionrelative:admveterinaria\\services\\atenciondatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\AdmVeterinaria\\AdmVeterinaria\\AdmVeterinaria\\obj\\Debug\\net8.0\\AdmVeterinaria.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdmVeterinaria\\obj\\Debug\\net8.0\\AdmVeterinaria.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFF39090-CD0B-4D6D-A61B-0DE6690DAB8F}|AdmVeterinaria\\AdmVeterinaria.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\admveterinaria\\admveterinaria\\admveterinaria\\services\\animaldatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFF39090-CD0B-4D6D-A61B-0DE6690DAB8F}|AdmVeterinaria\\AdmVeterinaria.csproj|solutionrelative:admveterinaria\\services\\animaldatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFF39090-CD0B-4D6D-A61B-0DE6690DAB8F}|AdmVeterinaria\\AdmVeterinaria.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\admveterinaria\\admveterinaria\\admveterinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF39090-CD0B-4D6D-A61B-0DE6690DAB8F}|AdmVeterinaria\\AdmVeterinaria.csproj|solutionrelative:admveterinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF39090-CD0B-4D6D-A61B-0DE6690DAB8F}|AdmVeterinaria\\AdmVeterinaria.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\admveterinaria\\admveterinaria\\admveterinaria\\admveterinaria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFF39090-CD0B-4D6D-A61B-0DE6690DAB8F}|AdmVeterinaria\\AdmVeterinaria.csproj|solutionrelative:admveterinaria\\admveterinaria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF39090-CD0B-4D6D-A61B-0DE6690DAB8F}|AdmVeterinaria\\AdmVeterinaria.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\admveterinaria\\admveterinaria\\admveterinaria\\datos\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF39090-CD0B-4D6D-A61B-0DE6690DAB8F}|AdmVeterinaria\\AdmVeterinaria.csproj|solutionrelative:admveterinaria\\datos\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AtencionDataStore.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\AdmVeterinaria\\AdmVeterinaria\\AdmVeterinaria\\Services\\AtencionDataStore.cs",
-              "RelativeDocumentMoniker": "AdmVeterinaria\\Services\\AtencionDataStore.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\AdmVeterinaria\\AdmVeterinaria\\AdmVeterinaria\\Services\\AtencionDataStore.cs",
-              "RelativeToolTip": "AdmVeterinaria\\Services\\AtencionDataStore.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCcAAAAAAAAAAAAAAA==",
+              "Title": "AdmVeterinaria.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\AdmVeterinaria\\AdmVeterinaria\\AdmVeterinaria\\obj\\Debug\\net8.0\\AdmVeterinaria.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AdmVeterinaria\\obj\\Debug\\net8.0\\AdmVeterinaria.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\AdmVeterinaria\\AdmVeterinaria\\AdmVeterinaria\\obj\\Debug\\net8.0\\AdmVeterinaria.AssemblyInfo.cs",
+              "RelativeToolTip": "AdmVeterinaria\\obj\\Debug\\net8.0\\AdmVeterinaria.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T21:17:50.53Z",
+              "WhenOpened": "2025-06-20T15:18:41.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdmVeterinaria",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\AdmVeterinaria\\AdmVeterinaria\\AdmVeterinaria\\AdmVeterinaria.csproj",
+              "RelativeDocumentMoniker": "AdmVeterinaria\\AdmVeterinaria.csproj",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\AdmVeterinaria\\AdmVeterinaria\\AdmVeterinaria\\AdmVeterinaria.csproj",
+              "RelativeToolTip": "AdmVeterinaria\\AdmVeterinaria.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T15:18:23.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\AdmVeterinaria\\AdmVeterinaria\\AdmVeterinaria\\Datos\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "AdmVeterinaria\\Datos\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\AdmVeterinaria\\AdmVeterinaria\\AdmVeterinaria\\Datos\\DbInitializer.cs",
+              "RelativeToolTip": "AdmVeterinaria\\Datos\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:03:50.437Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AnimalDataStore.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\AdmVeterinaria\\AdmVeterinaria\\AdmVeterinaria\\Services\\AnimalDataStore.cs",
-              "RelativeDocumentMoniker": "AdmVeterinaria\\Services\\AnimalDataStore.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\AdmVeterinaria\\AdmVeterinaria\\AdmVeterinaria\\Services\\AnimalDataStore.cs",
-              "RelativeToolTip": "AdmVeterinaria\\Services\\AnimalDataStore.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowBAAAAANAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\AdmVeterinaria\\AdmVeterinaria\\AdmVeterinaria\\Program.cs",
+              "RelativeDocumentMoniker": "AdmVeterinaria\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\AdmVeterinaria\\AdmVeterinaria\\AdmVeterinaria\\Program.cs",
+              "RelativeToolTip": "AdmVeterinaria\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAjwCIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T21:16:16.416Z",
+              "WhenOpened": "2025-06-20T13:54:56.61Z",
               "EditorCaption": ""
             }
           ]

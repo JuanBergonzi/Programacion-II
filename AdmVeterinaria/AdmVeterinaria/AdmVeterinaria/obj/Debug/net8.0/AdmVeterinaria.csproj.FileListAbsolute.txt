@@ -170,3 +170,4 @@ C:\Users\HP\Documents\GitHub\Programacion-II--me-\AdmVeterinaria\AdmVeterinaria\
 C:\Users\HP\Documents\GitHub\Programacion-II--me-\AdmVeterinaria\AdmVeterinaria\AdmVeterinaria\obj\Debug\net8.0\AdmVeterinaria.pdb
 C:\Users\HP\Documents\GitHub\Programacion-II--me-\AdmVeterinaria\AdmVeterinaria\AdmVeterinaria\obj\Debug\net8.0\AdmVeterinaria.genruntimeconfig.cache
 C:\Users\HP\Documents\GitHub\Programacion-II--me-\AdmVeterinaria\AdmVeterinaria\AdmVeterinaria\obj\Debug\net8.0\ref\AdmVeterinaria.dll
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\AdmVeterinaria\AdmVeterinaria\AdmVeterinaria\bin\Debug\net8.0\FluentAssertions.dll

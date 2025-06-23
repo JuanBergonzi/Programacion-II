@@ -55,6 +55,7 @@ namespace AdmVeterinaria.Logica.AnimalLogic
             };
 
             _animalRepository.Agregar(animalEntidad);
+            
             return true;
         }
         public bool ActualizarAnimal(int id, DtoAnimal animalDto)

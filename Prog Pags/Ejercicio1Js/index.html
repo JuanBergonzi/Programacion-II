@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"> 
     <title>ABM Persona</title>
 </head>
 <body>
@@ -10,15 +11,13 @@
     <form id="formId">
     <div>
         <label class="claselabel">Nombre</label>
-        <input type="text" name="Nombre" id="Nombre">
+        <input type="text" name="Nombre" placeholder="Nombre" required minlength="4" maxlength="10">
     </div>
-    <br>
 
     <div>
         <label class="claselabel">Apellido</label>
-        <input type="text" name="Apellido" id="Apellido">
+        <input type="text" name="Apellido" required placeholder="Apellido" minlength="3" pattern="[A-Za-z ]+">
     </div>
-    <br>
 
     <div>
          <label class="claselabel">Sexo</label>
@@ -27,16 +26,16 @@
             <option value="Masculino">Masculino</option>
         </select>
     </div>
-    <br>
 
     <div>
         <label class="claselabel">Fecha Nacimiento</label>
-        <input type="date" id="FechaNacimiento" onchange="edad()">
-        <br> <br>
-        <label class="claselabel">Edad</label>
-       <input type="text" name="Edad" id="Edad" readonly>
+        <input type="date" id="FechaNacimiento" onchange="edad()" required>
     </div>
-    <br>
+
+    <div>
+        <label class="claselabel">Edad</label>
+        <input type="text" name="Edad"readonly>
+    </div>
 
     <div>
         <label class="claselabel">Ciudad</label>
@@ -44,7 +43,6 @@
             <option value="Sunchales">Sunchales</option>
         </select>
     </div>
-    <br>
 
     <div>
         <button onclick="guardar()">Guardar</button>

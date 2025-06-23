@@ -1,0 +1,23 @@
+div{
+    background-color:rgb(162, 106, 215);
+    height: 50px; 
+    width: 300px;
+}
+h1{
+    background-color: aqua;
+    height: auto;
+    width: 90%;
+    text-align: center;
+    border: 10px solid black;
+    padding: 20px;
+}
+
+
+body{
+    background-color: rgb(100, 100, 201);
+}
+form{
+    background-color: rgb(227, 84, 84);
+    padding: 10px;
+    width: 400px;
+}

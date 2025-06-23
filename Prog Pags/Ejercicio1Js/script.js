@@ -21,11 +21,6 @@ function guardar() {
         errores++ ;
       }
 
-      if (/\d/.test(apellido)) {
-        alert("El apellido no puede contener números.");
-        errores++ ;
-      }
-
       const divErrores = document.getElementById("errores");
       if (errores.length > 0) {
         divErrores.innerHTML = errores.join("<br>");
