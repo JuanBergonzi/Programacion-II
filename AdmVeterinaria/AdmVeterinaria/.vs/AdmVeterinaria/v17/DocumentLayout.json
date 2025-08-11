@@ -26,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -38,21 +42,19 @@
               "RelativeToolTip": "AdmVeterinaria\\obj\\Debug\\net8.0\\AdmVeterinaria.AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T15:18:41.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T15:18:41.653Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AdmVeterinaria",
+              "Title": "AdmVeterinaria.csproj",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\AdmVeterinaria\\AdmVeterinaria\\AdmVeterinaria\\AdmVeterinaria.csproj",
               "RelativeDocumentMoniker": "AdmVeterinaria\\AdmVeterinaria.csproj",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\AdmVeterinaria\\AdmVeterinaria\\AdmVeterinaria\\AdmVeterinaria.csproj",
               "RelativeToolTip": "AdmVeterinaria\\AdmVeterinaria.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-20T15:18:23.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T15:18:23.486Z"
             },
             {
               "$type": "Document",
@@ -64,8 +66,7 @@
               "RelativeToolTip": "AdmVeterinaria\\Datos\\DbInitializer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T15:03:50.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T15:03:50.437Z"
             },
             {
               "$type": "Document",
