@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\PatronFactory\PatronFactory\obj\Debug\net8.0\PatronFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\PatronFactory\PatronFactory\obj\Debug\net8.0\PatronFactory.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\PatronFactory\PatronFactory\obj\Debug\net8.0\PatronFactory.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\PatronFactory\PatronFactory\obj\Debug\net8.0\PatronFactory.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\PatronFactory\PatronFactory\obj\Debug\net8.0\PatronFactory.sourcelink.json
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\PatronFactory\PatronFactory\bin\Debug\net8.0\PatronFactory.exe
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\PatronFactory\PatronFactory\bin\Debug\net8.0\PatronFactory.deps.json
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\PatronFactory\PatronFactory\bin\Debug\net8.0\PatronFactory.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\PatronFactory\PatronFactory\bin\Debug\net8.0\PatronFactory.dll
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\PatronFactory\PatronFactory\bin\Debug\net8.0\PatronFactory.pdb
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\PatronFactory\PatronFactory\obj\Debug\net8.0\PatronFactory.dll
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\PatronFactory\PatronFactory\obj\Debug\net8.0\refint\PatronFactory.dll
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\PatronFactory\PatronFactory\obj\Debug\net8.0\PatronFactory.pdb
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\PatronFactory\PatronFactory\obj\Debug\net8.0\PatronFactory.genruntimeconfig.cache
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\PatronFactory\PatronFactory\obj\Debug\net8.0\ref\PatronFactory.dll
