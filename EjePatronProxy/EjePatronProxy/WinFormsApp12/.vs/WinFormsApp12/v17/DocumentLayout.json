@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjePatronProxy\\EjePatronProxy\\WinFormsApp12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2843545-11CA-423B-B47C-8394520CAC00}|WinFormsApp12\\WinFormsApp12.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\ejepatronproxy\\ejepatronproxy\\winformsapp12\\winformsapp12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2843545-11CA-423B-B47C-8394520CAC00}|WinFormsApp12\\WinFormsApp12.csproj|solutionrelative:winformsapp12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2843545-11CA-423B-B47C-8394520CAC00}|WinFormsApp12\\WinFormsApp12.csproj|C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjePatronProxy\\EjePatronProxy\\WinFormsApp12\\winformsapp12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2843545-11CA-423B-B47C-8394520CAC00}|WinFormsApp12\\WinFormsApp12.csproj|solutionrelative:winformsapp12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0EE862B-76A2-4E0B-96E9-9D10D8C68F67}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\ejepatronproxy\\ejepatronproxy\\winformsapp12\\classlibrary1\\apimercadopagoproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0EE862B-76A2-4E0B-96E9-9D10D8C68F67}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\apimercadopagoproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0EE862B-76A2-4E0B-96E9-9D10D8C68F67}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\ejepatronproxy\\ejepatronproxy\\winformsapp12\\classlibrary1\\apimercadopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0EE862B-76A2-4E0B-96E9-9D10D8C68F67}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\apimercadopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APIMercadoPagoProxy.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjePatronProxy\\EjePatronProxy\\WinFormsApp12\\ClassLibrary1\\APIMercadoPagoProxy.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\APIMercadoPagoProxy.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjePatronProxy\\EjePatronProxy\\WinFormsApp12\\ClassLibrary1\\APIMercadoPagoProxy.cs",
+              "RelativeToolTip": "ClassLibrary1\\APIMercadoPagoProxy.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:20:35.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APIMercadoPago.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjePatronProxy\\EjePatronProxy\\WinFormsApp12\\ClassLibrary1\\APIMercadoPago.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\APIMercadoPago.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjePatronProxy\\EjePatronProxy\\WinFormsApp12\\ClassLibrary1\\APIMercadoPago.cs",
+              "RelativeToolTip": "ClassLibrary1\\APIMercadoPago.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:19:18.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjePatronProxy\\EjePatronProxy\\WinFormsApp12\\WinFormsApp12\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp12\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjePatronProxy\\EjePatronProxy\\WinFormsApp12\\WinFormsApp12\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp12\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:15:10.122Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjePatronProxy\\EjePatronProxy\\WinFormsApp12\\WinFormsApp12\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp12\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjePatronProxy\\EjePatronProxy\\WinFormsApp12\\WinFormsApp12\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp12\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:22:18.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
