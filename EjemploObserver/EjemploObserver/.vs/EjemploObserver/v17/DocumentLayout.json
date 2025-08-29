@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjemploObserver\\EjemploObserver\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6E1D272E-6185-488D-A9A8-36C084BBF9BA}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\ejemploobserver\\ejemploobserver\\classlibrary1\\iobservador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D272E-6185-488D-A9A8-36C084BBF9BA}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\iobservador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6E1D272E-6185-488D-A9A8-36C084BBF9BA}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\ejemploobserver\\ejemploobserver\\classlibrary1\\cotizaci\u00F3ndolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E1D272E-6185-488D-A9A8-36C084BBF9BA}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\cotizaci\u00F3ndolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D272E-6185-488D-A9A8-36C084BBF9BA}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\ejemploobserver\\ejemploobserver\\classlibrary1\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D272E-6185-488D-A9A8-36C084BBF9BA}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D272E-6185-488D-A9A8-36C084BBF9BA}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\ejemploobserver\\ejemploobserver\\classlibrary1\\observado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D272E-6185-488D-A9A8-36C084BBF9BA}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\observado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{629FF353-E1FB-4A1D-8C0F-3675BB6A454D}|EjemploObserver\\EjemploObserver.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\ejemploobserver\\ejemploobserver\\ejemploobserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +27,8 @@
       "RelativeMoniker": "D:0:0:{629FF353-E1FB-4A1D-8C0F-3675BB6A454D}|EjemploObserver\\EjemploObserver.csproj|solutionrelative:ejemploobserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E1D272E-6185-488D-A9A8-36C084BBF9BA}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\ejemploobserver\\ejemploobserver\\classlibrary1\\observado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1D272E-6185-488D-A9A8-36C084BBF9BA}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\observado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E1D272E-6185-488D-A9A8-36C084BBF9BA}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\ejemploobserver\\ejemploobserver\\classlibrary1\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1D272E-6185-488D-A9A8-36C084BBF9BA}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E1D272E-6185-488D-A9A8-36C084BBF9BA}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\ejemploobserver\\ejemploobserver\\classlibrary1\\iobservador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1D272E-6185-488D-A9A8-36C084BBF9BA}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\iobservador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E1D272E-6185-488D-A9A8-36C084BBF9BA}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\ejemploobserver\\ejemploobserver\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1D272E-6185-488D-A9A8-36C084BBF9BA}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{629FF353-E1FB-4A1D-8C0F-3675BB6A454D}|EjemploObserver\\EjemploObserver.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\ejemploobserver\\ejemploobserver\\ejemploobserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629FF353-E1FB-4A1D-8C0F-3675BB6A454D}|EjemploObserver\\EjemploObserver.csproj|solutionrelative:ejemploobserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,28 +42,42 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjemploObserver\\EjemploObserver\\EjemploObserver\\Program.cs",
+              "RelativeDocumentMoniker": "EjemploObserver\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjemploObserver\\EjemploObserver\\EjemploObserver\\Program.cs",
+              "RelativeToolTip": "EjemploObserver\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T19:49:42.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjemploObserver\\EjemploObserver\\EjemploObserver\\Form1.cs",
               "RelativeDocumentMoniker": "EjemploObserver\\Form1.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjemploObserver\\EjemploObserver\\EjemploObserver\\Form1.cs",
               "RelativeToolTip": "EjemploObserver\\Form1.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAABgAAAAjAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T01:16:27.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\Producto.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Producto.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\Producto.cs",
               "RelativeToolTip": "ClassLibrary1\\Producto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBMAAAArAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T01:12:58.087Z"
+              "WhenOpened": "2024-05-07T01:12:58.087Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -73,57 +87,48 @@
               "RelativeDocumentMoniker": "ClassLibrary1\\Observado.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\Observado.cs",
               "RelativeToolTip": "ClassLibrary1\\Observado.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAABsAAAAxAAAA",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T22:59:38.953Z"
+              "WhenOpened": "2024-05-06T22:59:38.953Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "IObservador.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\IObservador.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\IObservador.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\IObservador.cs",
               "RelativeToolTip": "ClassLibrary1\\IObservador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T22:58:51.847Z"
+              "WhenOpened": "2024-05-06T22:58:51.847Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Cotizaci\u00F3nDolar.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\Cotizaci\u00F3nDolar.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Cotizaci\u00F3nDolar.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\Cotizaci\u00F3nDolar.cs",
               "RelativeToolTip": "ClassLibrary1\\Cotizaci\u00F3nDolar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T22:54:57.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjemploObserver\\EjemploObserver\\EjemploObserver\\Form1.cs",
               "RelativeDocumentMoniker": "EjemploObserver\\Form1.cs",
-              "ToolTip": "C:\\Users\\mgmaretto\\source\\repos\\EjemploObserver\\EjemploObserver\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\mgmaretto\\source\\repos\\EjemploObserver\\EjemploObserver\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjemploObserver\\EjemploObserver\\EjemploObserver\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EjemploObserver\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T22:54:11.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\Class1.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\Class1.cs",
-              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T22:54:37.922Z"
+              "WhenOpened": "2024-05-06T22:54:11.814Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

@@ -8,6 +8,6 @@ namespace ClassLibrary1
 {
     public interface IObservador
     {
-        public void actualizarCotizacionDolar();
+        void Update(string pelicula);
     }
 }
