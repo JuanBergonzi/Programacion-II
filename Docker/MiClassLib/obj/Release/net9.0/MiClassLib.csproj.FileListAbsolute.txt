@@ -1,0 +1,12 @@
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiClassLib\bin\Release\net9.0\MiClassLib.deps.json
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiClassLib\bin\Release\net9.0\MiClassLib.dll
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiClassLib\bin\Release\net9.0\MiClassLib.pdb
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiClassLib\obj\Release\net9.0\MiClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiClassLib\obj\Release\net9.0\MiClassLib.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiClassLib\obj\Release\net9.0\MiClassLib.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiClassLib\obj\Release\net9.0\MiClassLib.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiClassLib\obj\Release\net9.0\MiClassLib.sourcelink.json
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiClassLib\obj\Release\net9.0\MiClassLib.dll
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiClassLib\obj\Release\net9.0\refint\MiClassLib.dll
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiClassLib\obj\Release\net9.0\MiClassLib.pdb
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiClassLib\obj\Release\net9.0\ref\MiClassLib.dll

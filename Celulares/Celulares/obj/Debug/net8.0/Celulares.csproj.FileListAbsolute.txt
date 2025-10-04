@@ -1,0 +1,12 @@
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\Celulares\bin\Debug\net8.0\Celulares.deps.json
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\Celulares\bin\Debug\net8.0\Celulares.dll
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\Celulares\bin\Debug\net8.0\Celulares.pdb
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\Celulares\obj\Debug\net8.0\Celulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\Celulares\obj\Debug\net8.0\Celulares.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\Celulares\obj\Debug\net8.0\Celulares.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\Celulares\obj\Debug\net8.0\Celulares.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\Celulares\obj\Debug\net8.0\Celulares.sourcelink.json
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\Celulares\obj\Debug\net8.0\Celulares.dll
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\Celulares\obj\Debug\net8.0\refint\Celulares.dll
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\Celulares\obj\Debug\net8.0\Celulares.pdb
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\Celulares\obj\Debug\net8.0\ref\Celulares.dll

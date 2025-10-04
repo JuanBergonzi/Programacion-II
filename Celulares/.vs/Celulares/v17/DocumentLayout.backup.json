@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{701763C8-7A7A-4AA9-8322-6AFCCB7C0BAC}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\celulares\\webapplication1\\pages\\viewcel\\listacelulares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{701763C8-7A7A-4AA9-8322-6AFCCB7C0BAC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\viewcel\\listacelulares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701763C8-7A7A-4AA9-8322-6AFCCB7C0BAC}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\celulares\\webapplication1\\pages\\viewcel\\modificarcelulares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{701763C8-7A7A-4AA9-8322-6AFCCB7C0BAC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\viewcel\\modificarcelulares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701763C8-7A7A-4AA9-8322-6AFCCB7C0BAC}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\celulares\\webapplication1\\pages\\viewcel\\agregarcelulares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{701763C8-7A7A-4AA9-8322-6AFCCB7C0BAC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\viewcel\\agregarcelulares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "listaCelulares.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\WebApplication1\\Pages\\ViewCel\\listaCelulares.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\ViewCel\\listaCelulares.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\WebApplication1\\Pages\\ViewCel\\listaCelulares.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\ViewCel\\listaCelulares.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwD8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T21:13:22.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Modificarcelulares.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\WebApplication1\\Pages\\ViewCel\\Modificarcelulares.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\ViewCel\\Modificarcelulares.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\WebApplication1\\Pages\\ViewCel\\Modificarcelulares.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\ViewCel\\Modificarcelulares.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T21:05:56.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgregarCelulares.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\WebApplication1\\Pages\\ViewCel\\AgregarCelulares.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\ViewCel\\AgregarCelulares.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\WebApplication1\\Pages\\ViewCel\\AgregarCelulares.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\ViewCel\\AgregarCelulares.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T21:05:35.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiAppWeb\bin\Release\net9.0\publish\MiAppWeb.exe
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiAppWeb\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiAppWeb\bin\Release\net9.0\publish\appsettings.json
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiAppWeb\bin\Release\net9.0\publish\MiAppWeb.dll
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiAppWeb\bin\Release\net9.0\publish\MiAppWeb.deps.json
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiAppWeb\bin\Release\net9.0\publish\MiAppWeb.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiAppWeb\bin\Release\net9.0\publish\MiAppWeb.pdb

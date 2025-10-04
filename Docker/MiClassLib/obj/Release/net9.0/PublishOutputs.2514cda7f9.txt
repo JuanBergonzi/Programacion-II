@@ -1,0 +1,3 @@
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiClassLib\bin\Release\net9.0\publish\MiClassLib.dll
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiClassLib\bin\Release\net9.0\publish\MiClassLib.deps.json
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Docker\MiClassLib\bin\Release\net9.0\publish\MiClassLib.pdb
