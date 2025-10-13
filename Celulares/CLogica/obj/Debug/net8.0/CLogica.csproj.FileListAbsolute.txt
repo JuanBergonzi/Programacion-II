@@ -7,12 +7,12 @@ C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\CLogica\bin\Debug\ne
 C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\CLogica\bin\Debug\net8.0\CLogica.dll
 C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\CLogica\bin\Debug\net8.0\CLogica.pdb
 C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\CLogica\bin\Debug\net8.0\CDatos.dll
-C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\CLogica\bin\Debug\net8.0\Celulares.dll
 C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\CLogica\bin\Debug\net8.0\CDatos.pdb
-C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\CLogica\bin\Debug\net8.0\Celulares.pdb
 C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\CLogica\obj\Debug\net8.0\CLogica.csproj.AssemblyReference.cache
 C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\CLogica\obj\Debug\net8.0\CLogica.csproj.Up2Date
 C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\CLogica\obj\Debug\net8.0\CLogica.dll
 C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\CLogica\obj\Debug\net8.0\refint\CLogica.dll
 C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\CLogica\obj\Debug\net8.0\CLogica.pdb
 C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\CLogica\obj\Debug\net8.0\ref\CLogica.dll
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\CLogica\bin\Debug\net8.0\Shared.dll
+C:\Users\HP\Documents\GitHub\Programacion-II--me-\Celulares\CLogica\bin\Debug\net8.0\Shared.pdb

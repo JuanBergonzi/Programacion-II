@@ -26,14 +26,14 @@ namespace api.Controllers
         }
 
         [HttpPost]
-        public IActionResult Post([FromBody] Celular celular)
+        public IActionResult Post( Celular celular)
         {
             _service.Add(celular);
             return CreatedAtAction(nameof(Get), new { id = celular.Id }, celular);
         }
 
         [HttpPut("{id}")]
-        public IActionResult Put(int id, [FromBody] Celular celular)
+        public IActionResult Put(int id, Celular celular)
         {
             if (id != celular.Id) return BadRequest();
             _service.Update(celular);

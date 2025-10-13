@@ -1602,14 +1602,14 @@
           }
         }
       },
-      "Celulares/1.0.0": {
+      "Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/Celulares.dll": {}
+          "bin/placeholder/Shared.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Celulares.dll": {}
+          "bin/placeholder/Shared.dll": {}
         }
       }
     }
@@ -4723,19 +4723,19 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Celulares/1.0.0": {
+    "Shared/1.0.0": {
       "type": "project",
-      "path": "../Celulares/Celulares.csproj",
-      "msbuildProject": "../Celulares/Celulares.csproj"
+      "path": "../Celulares/Shared.csproj",
+      "msbuildProject": "../Celulares/Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Celulares >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 9.0.9",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.9",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.9",
-      "Microsoft.EntityFrameworkCore.Tools >= 9.0.9"
+      "Microsoft.EntityFrameworkCore.Tools >= 9.0.9",
+      "Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4770,8 +4770,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Celulares.csproj": {
-              "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Celulares.csproj"
+            "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Shared.csproj": {
+              "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Shared.csproj"
             }
           }
         }

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F87F490E-4D70-48C7-9704-598F4226BE85}|Unit-Tests\\Unit-Tests.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\celulares\\unit-tests\\celularestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87F490E-4D70-48C7-9704-598F4226BE85}|Unit-Tests\\Unit-Tests.csproj|solutionrelative:unit-tests\\celularestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87F490E-4D70-48C7-9704-598F4226BE85}|Unit-Tests\\Unit-Tests.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\celulares\\unit-tests\\unit-tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F87F490E-4D70-48C7-9704-598F4226BE85}|Unit-Tests\\Unit-Tests.csproj|solutionrelative:unit-tests\\unit-tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{701763C8-7A7A-4AA9-8322-6AFCCB7C0BAC}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\celulares\\webapplication1\\pages\\viewcel\\listacelulares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{701763C8-7A7A-4AA9-8322-6AFCCB7C0BAC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\viewcel\\listacelulares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{701763C8-7A7A-4AA9-8322-6AFCCB7C0BAC}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\celulares\\webapplication1\\pages\\viewcel\\modificarcelulares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{701763C8-7A7A-4AA9-8322-6AFCCB7C0BAC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\viewcel\\modificarcelulares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{701763C8-7A7A-4AA9-8322-6AFCCB7C0BAC}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\celulares\\webapplication1\\pages\\viewcel\\agregarcelulares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{701763C8-7A7A-4AA9-8322-6AFCCB7C0BAC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\viewcel\\agregarcelulares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Unit-Tests",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Unit-Tests\\Unit-Tests.csproj",
+              "RelativeDocumentMoniker": "Unit-Tests\\Unit-Tests.csproj",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Unit-Tests\\Unit-Tests.csproj",
+              "RelativeToolTip": "Unit-Tests\\Unit-Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-13T13:05:30.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "listaCelulares.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\WebApplication1\\Pages\\ViewCel\\listaCelulares.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Pages\\ViewCel\\listaCelulares.cshtml",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\WebApplication1\\Pages\\ViewCel\\listaCelulares.cshtml",
               "RelativeToolTip": "WebApplication1\\Pages\\ViewCel\\listaCelulares.cshtml",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAwwD8AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-03T21:13:22.112Z",
+              "WhenOpened": "2025-10-13T13:02:00.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Modificarcelulares.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\WebApplication1\\Pages\\ViewCel\\Modificarcelulares.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\ViewCel\\Modificarcelulares.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\WebApplication1\\Pages\\ViewCel\\Modificarcelulares.cshtml",
-              "RelativeToolTip": "WebApplication1\\Pages\\ViewCel\\Modificarcelulares.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-03T21:05:56.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AgregarCelulares.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\WebApplication1\\Pages\\ViewCel\\AgregarCelulares.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\ViewCel\\AgregarCelulares.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\WebApplication1\\Pages\\ViewCel\\AgregarCelulares.cshtml",
-              "RelativeToolTip": "WebApplication1\\Pages\\ViewCel\\AgregarCelulares.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-03T21:05:35.273Z",
+              "DocumentIndex": 0,
+              "Title": "CelularesTest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Unit-Tests\\CelularesTest.cs",
+              "RelativeDocumentMoniker": "Unit-Tests\\CelularesTest.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Unit-Tests\\CelularesTest.cs",
+              "RelativeToolTip": "Unit-Tests\\CelularesTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:58:31.163Z",
               "EditorCaption": ""
             }
           ]

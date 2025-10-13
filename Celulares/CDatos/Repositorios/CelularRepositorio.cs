@@ -15,9 +15,18 @@ namespace CDatos.Repositorios
             _context = context;
         }
 
-        public List<Celular> GetAll() => _context.Celulares.ToList();
+        public List<Celular> GetAll()
+        {
+            _context.Celulares.ToList();
+            return _context.Celulares.ToList();
+        }
 
-        public Celular? GetById(int id) => _context.Celulares.Find(id);
+        public Celular? GetById(int id)
+        { 
+            _context.Celulares.Find(id);
+            return _context.Celulares.Find(id);
+        }
+
 
         public void Add(Celular celular)
         {

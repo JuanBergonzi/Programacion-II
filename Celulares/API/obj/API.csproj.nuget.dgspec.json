@@ -35,8 +35,8 @@
               "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\CDatos\\CDatos.csproj": {
                 "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\CDatos\\CDatos.csproj"
               },
-              "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Celulares.csproj": {
-                "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Celulares.csproj"
+              "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Shared.csproj": {
+                "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Shared.csproj"
               },
               "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\CLogica\\CLogica.csproj": {
                 "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\CLogica\\CLogica.csproj"
@@ -116,8 +116,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Celulares.csproj": {
-                "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Celulares.csproj"
+              "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Shared.csproj": {
+                "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Shared.csproj"
               }
             }
           }
@@ -179,12 +179,12 @@
         }
       }
     },
-    "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Celulares.csproj": {
+    "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Celulares.csproj",
-        "projectName": "Celulares",
-        "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Celulares.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Shared.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\obj\\",
         "projectStyle": "PackageReference",
@@ -275,8 +275,8 @@
               "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\CDatos\\CDatos.csproj": {
                 "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\CDatos\\CDatos.csproj"
               },
-              "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Celulares.csproj": {
-                "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Celulares.csproj"
+              "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Shared.csproj": {
+                "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\Celulares\\Shared.csproj"
               }
             }
           }
@@ -296,6 +296,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Celulares.Celulares;
 using CLogica.Implementation.Contracts;
+using Microsoft.AspNetCore.Mvc;
 
 namespace CLogica.Implementation
 {
@@ -15,9 +16,17 @@ namespace CLogica.Implementation
             _context = context;
         }
 
-        public List<Celular> GetAll() => _context.Celulares.ToList();
-
-        public Celular? GetById(int id) => _context.Celulares.Find(id);
+        public List<Celular> GetAll()
+        {
+            _context.Celulares.ToList();
+            return _context.Celulares.ToList();
+        }
+        public Celular? GetById(int id)
+        {
+            _context.Celulares.Find(id);
+            return _context.Celulares.Find(id);
+        }
+        
 
         public void Add(Celular celular)
         {

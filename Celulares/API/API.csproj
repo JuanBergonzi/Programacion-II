@@ -12,7 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CDatos\CDatos.csproj" />
-    <ProjectReference Include="..\Celulares\Celulares.csproj" />
+    <ProjectReference Include="..\Celulares\Shared.csproj" />
     <ProjectReference Include="..\CLogica\CLogica.csproj" />
   </ItemGroup>
 
