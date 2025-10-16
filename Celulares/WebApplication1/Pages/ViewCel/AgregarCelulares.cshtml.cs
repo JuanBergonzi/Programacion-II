@@ -21,7 +21,7 @@ namespace WebApplication1.Pages.ViewCel
         public IActionResult OnPost()
         {
             if (!ModelState.IsValid) return Page();
-            _service.Add(Celular);
+            _service.AgregarCelulares(Celular);
             return RedirectToPage("listaCelulares");
         }
     }

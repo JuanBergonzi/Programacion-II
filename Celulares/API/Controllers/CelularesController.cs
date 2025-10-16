@@ -15,35 +15,40 @@ namespace api.Controllers
         }
 
         [HttpGet]
-        public IActionResult Get() => Ok(_service.GetAll());
+        public IActionResult GetCelular()
+        {
+            Ok(_service.GetCelulares());
+            return Ok(_service.GetCelulares());
+        }
+
 
         [HttpGet("{id}")]
-        public IActionResult Get(int id)
+        public IActionResult GetCelularId(int id)
         {
-            var celular = _service.GetById(id);
+            var celular = _service.GetCelularesId(id);
             if (celular == null) return NotFound();
             return Ok(celular);
         }
 
         [HttpPost]
-        public IActionResult Post( Celular celular)
+        public IActionResult PostCelular( Celular celular)
         {
-            _service.Add(celular);
-            return CreatedAtAction(nameof(Get), new { id = celular.Id }, celular);
+            _service.AgregarCelulares(celular);
+            return CreatedAtAction(nameof(GetCelular), new { id = celular.Id }, celular);
         }
 
         [HttpPut("{id}")]
-        public IActionResult Put(int id, Celular celular)
+        public IActionResult PutCelular(int id, Celular celular)
         {
             if (id != celular.Id) return BadRequest();
-            _service.Update(celular);
+            _service.ActualizarCelulares(celular);
             return NoContent();
         }
 
         [HttpDelete("{id}")]
-        public IActionResult Delete(int id)
+        public IActionResult DeleteCelular(int id)
         {
-            _service.Delete(id);
+            _service.DeleteCelulares(id);
             return NoContent();
         }
     }

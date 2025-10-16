@@ -6,10 +6,6 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// --------------------
-// Configurar servicios
-// --------------------
-
 // DbContext con SQL Server
 builder.Services.AddDbContext<DataContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -40,10 +36,6 @@ builder.Services.AddCors(options =>
 });
 
 var app = builder.Build();
-
-// --------------------
-// Middleware
-// --------------------
 
 if (app.Environment.IsDevelopment())
 {

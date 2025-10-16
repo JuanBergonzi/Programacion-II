@@ -16,7 +16,7 @@ namespace WebApplication1.Pages.ViewCel
 
         public void OnGet()
         {
-            Celulares = _service.GetAll();
+            Celulares = _service.GetCelulares();
         }
     }
 }   

@@ -22,7 +22,7 @@ namespace Unit_Tests
             var service = new CelularService(context);
 
             var celular = new Celular { Id = 1, Marca = "Samsung", Modelo = "S23", Precio = 1000m };
-            service.Add(celular);
+            service.AgregarCelulares(celular);
 
             var result = context.Celulares.Find(1);
             Assert.NotNull(result);
@@ -41,7 +41,7 @@ namespace Unit_Tests
             context.SaveChanges();
 
             var service = new CelularService(context);
-            var result = service.GetAll();
+            var result = service.GetCelulares();
 
             Assert.Equal(2, result.Count);
         }
@@ -54,7 +54,7 @@ namespace Unit_Tests
             context.SaveChanges();
 
             var service = new CelularService(context);
-            var result = service.GetById(1);
+            var result = service.GetCelularesId(1);
 
             Assert.NotNull(result);
             Assert.Equal("Samsung", result.Marca);
@@ -69,7 +69,7 @@ namespace Unit_Tests
 
             var service = new CelularService(context);
             var updated = new Celular { Id = 1, Marca = "Samsung", Modelo = "S23 Ultra", Precio = 1100m };
-            service.Update(updated);
+            service.ActualizarCelulares(updated);
 
             var result = context.Celulares.Find(1);
             Assert.Equal("S23 Ultra", result.Modelo);
@@ -84,7 +84,7 @@ namespace Unit_Tests
             context.SaveChanges();
 
             var service = new CelularService(context);
-            service.Delete(1);
+            service.DeleteCelulares(1);
 
             var result = context.Celulares.Find(1);
             Assert.Null(result);

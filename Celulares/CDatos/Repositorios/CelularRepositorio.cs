@@ -15,26 +15,26 @@ namespace CDatos.Repositorios
             _context = context;
         }
 
-        public List<Celular> GetAll()
+        public List<Celular> GetCelulares()
         {
             _context.Celulares.ToList();
             return _context.Celulares.ToList();
         }
 
-        public Celular? GetById(int id)
+        public Celular? GetCelularesId(int id)
         { 
             _context.Celulares.Find(id);
             return _context.Celulares.Find(id);
         }
 
 
-        public void Add(Celular celular)
+        public void AgregarCelulares(Celular celular)
         {
             _context.Celulares.Add(celular);
             _context.SaveChanges();
         }
 
-        public void Update(Celular celular)
+        public void ActualizarCelulares(Celular celular)
         {
             var existente = _context.Celulares.Find(celular.Id);
             if (existente != null)
@@ -46,7 +46,7 @@ namespace CDatos.Repositorios
             }
         }
 
-        public void Delete(int id)
+        public void DeleteCelulares(int id)
         {
             var existente = _context.Celulares.Find(id);
             if (existente != null)

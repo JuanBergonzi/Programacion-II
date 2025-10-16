@@ -16,7 +16,7 @@ namespace WebApplication1.Pages.ViewCel
 
         public IActionResult OnGet(int id)
         {
-            var existente = _service.GetById(id);
+            var existente = _service.GetCelularesId(id);
             if (existente == null) return RedirectToPage("listaCelulares");
             Celular = existente;
             return Page();
@@ -25,7 +25,7 @@ namespace WebApplication1.Pages.ViewCel
         public IActionResult OnPost()
         {
             if (!ModelState.IsValid) return Page();
-            _service.Update(Celular);
+            _service.ActualizarCelulares(Celular);
             return RedirectToPage("listaCelulares");
         }
     }
