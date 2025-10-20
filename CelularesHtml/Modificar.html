@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modificar Celular</title>
+    <link href="style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Modificar Teléfono</h1>
+    </header>
+
+    <main>
+        <form class="formulario">
+            <label>Marca:</label>
+            <input type="text" value="Samsung">
+
+            <label>Modelo:</label>
+            <input type="text" value="Galaxy S24">
+
+            <label>Precio:</label>
+            <input type="number" value="950">
+
+            <div class="botones-form">
+                <button type="button" class="guardar" onclick="guardar()">Guardar</button>
+                <button type="button" class="cancelar" onclick="cancelar()">Cancelar</button>
+            </div>
+        </form>
+    </main>
+
+    <script>
+        function guardar() {
+            alert("Cambios guardados correctamente.");
+            window.location.href = "inicio.html";
+        }
+
+        function cancelar() {
+            window.location.href = "inicio.html";
+        }
+    </script>  
+</body>
+</html>

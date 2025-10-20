@@ -1,57 +1,89 @@
 ﻿@page
 @model WebApplication1.Pages.ViewCel.listaCelularesModel
 @{
+    ViewData["Title"] = "Inicio - Lista de Celulares";
 }
 
-<h2>Lista de Celulares</h2>
-<a asp-page="AgregarCelulares" class="btn btn-primary mb-2">Agregar Celular</a>
-<table class="table table-bordered">
-    <thead>
-        <tr>
-            <th>Marca</th>
-            <th>Modelo</th>
-            <th>Precio</th>
-            <th>Acciones</th>
-        </tr>
-    </thead>
-    <tbody>
-    @foreach (var celular in Model.Celulares)
-    {
-        <tr>
-            <td>@celular.Marca</td>
-            <td>@celular.Modelo</td>
-            <td>@celular.Precio</td>
-            <td>
-                <a asp-page="Modificarcelulares" asp-route-id="@celular.Id" class="btn btn-warning btn-sm">Modificar</a>
-                <button type="button" class="btn btn-danger btn-sm" data-bs-toggle="modal" data-bs-target="#modalEliminar" data-id="@celular.Id" data-marca="@celular.Marca" data-modelo="@celular.Modelo">
-                    Eliminar
-                </button>
-            </td>
-        </tr>
-    }
-    </tbody>
-</table>
+<div class="container mt-4">
+    <header class="text-center mb-4">
+        <h1>Bienvenido</h1>
+        <h2 class="text-secondary">Lista de Celulares</h2>
+    </header>
+
+    <div class="boton-agregar text-end mb-3">
+        <a asp-page="AgregarCelulares" class="btn btn-primary">➕ Agregar Celular</a>
+    </div>
+
+    <table class="table table-bordered align-middle text-center shadow-sm">
+        <thead class="table-primary">
+            <tr>
+                <th>Marca</th>
+                <th>Modelo</th>
+                <th>Precio</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var celular in Model.Celulares)
+            {
+                <tr>
+                    <td>@celular.Marca</td>
+                    <td>@celular.Modelo</td>
+                    <td>$@celular.Precio</td>
+                    <td>
+                        <a asp-page="Modificarcelulares" asp-route-id="@celular.Id" class="btn btn-warning btn-sm">✏️</a>
+                        <button type="button" class="btn btn-danger btn-sm"
+                                data-bs-toggle="modal"
+                                data-bs-target="#modalEliminar"
+                                data-id="@celular.Id"
+                                data-marca="@celular.Marca"
+                                data-modelo="@celular.Modelo">
+                            🗑️
+                        </button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
 
 <!-- Modal de eliminación -->
 <div class="modal fade" id="modalEliminar" tabindex="-1" aria-labelledby="modalEliminarLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <form method="post" id="formEliminar">
-        <div class="modal-header">
-          <h5 class="modal-title" id="modalEliminarLabel">Confirmar eliminación</h5>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <form method="post" asp-page-handler="Eliminar">
+                <input type="hidden" name="id" id="celularId" />
+                <div class="modal-header">
+                    <h5 class="modal-title" id="modalEliminarLabel">Confirmar eliminación</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+                </div>
+                <div class="modal-body">
+                    <p>
+                        ¿Está seguro que desea eliminar el celular
+                        <strong><span id="celularMarca"></span> <span id="celularModelo"></span></strong>?
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-danger">Eliminar</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                </div>
+            </form>
         </div>
-        <div class="modal-body">
-          <input type="hidden" name="id" id="celularId" />
-          <p>¿Está seguro que desea eliminar el celular <span id="celularMarca"></span> <span id="celularModelo"></span>?</p>
-        </div>
-        <div class="modal-footer">
-          <button type="submit" class="btn btn-danger">Eliminar</button>
-          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
-        </div>
-      </form>
     </div>
-  </div>
 </div>
-<script src="~/js/site.js"></script>
 
+@section Scripts {
+    <script>
+        const modalEliminar = document.getElementById('modalEliminar');
+        modalEliminar.addEventListener('show.bs.modal', function (event) {
+            const button = event.relatedTarget;
+            const id = button.getAttribute('data-id');
+            const marca = button.getAttribute('data-marca');
+            const modelo = button.getAttribute('data-modelo');
+
+            document.getElementById('celularId').value = id;
+            document.getElementById('celularMarca').textContent = marca;
+            document.getElementById('celularModelo').textContent = modelo;
+        });
+    </script>
+}

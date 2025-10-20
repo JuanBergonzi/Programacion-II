@@ -1,29 +1,44 @@
 ﻿@page
 @model WebApplication1.Pages.ViewCel.AgregarCelularesModel
 @{
+    ViewData["Title"] = "Agregar Celular";
 }
 
-<h2>Agregar Celular</h2>
-<form method="post">
-    <div class="mb-3">
-        <label asp-for="Celular.Marca" class="form-label">Marca</label>
-        <input asp-for="Celular.Marca" class="form-control" />
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"]</title>
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.2.0/fonts/remixicon.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/site.css">
+</head>
+<body>
+
+    <header>
+        <h2>Agregar Nuevo Celular</h2>
+    </header>
+
+    <form method="post" class="formulario">
+        <label asp-for="Celular.Marca">Marca</label>
+        <input asp-for="Celular.Marca" placeholder="Ej: Samsung" />
         <span asp-validation-for="Celular.Marca" class="text-danger"></span>
-    </div>
-    <div class="mb-3">
-        <label asp-for="Celular.Modelo" class="form-label">Modelo</label>
-        <input asp-for="Celular.Modelo" class="form-control" />
-        <span asp-validation-for="Celular.Modelo" class="text-danger"></span>
-    </div>
-    <div class="mb-3">
-        <label asp-for="Celular.Precio" class="form-label">Precio</label>
-        <input asp-for="Celular.Precio" class="form-control" type="number" step="0.01" />
-        <span asp-validation-for="Celular.Precio" class="text-danger"></span>
-    </div>
-    <button type="submit" class="btn btn-primary">Guardar</button>
-    <a asp-page="listaCelulares" class="btn btn-secondary">Volver</a>
-</form>
 
-@section Scripts {
+        <label asp-for="Celular.Modelo">Modelo</label>
+        <input asp-for="Celular.Modelo" placeholder="Ej: Galaxy A55" />
+        <span asp-validation-for="Celular.Modelo" class="text-danger"></span>
+
+        <label asp-for="Celular.Precio">Precio</label>
+        <input asp-for="Celular.Precio" type="number" step="0.01" placeholder="Ej: 950" />
+        <span asp-validation-for="Celular.Precio" class="text-danger"></span>
+
+        <div class="botones-form">
+            <button type="submit" class="guardar">Guardar</button>
+            <a asp-page="listaCelulares" class="cancelar">Cancelar</a>
+        </div>
+    </form>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <partial name="_ValidationScriptsPartial" />
-}
+
+</body>
+</html>

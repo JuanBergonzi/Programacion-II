@@ -18,5 +18,10 @@ namespace WebApplication1.Pages.ViewCel
         {
             Celulares = _service.GetCelulares();
         }
+        public IActionResult OnPostEliminar(int id)
+        {
+            _service.DeleteCelulares(id); 
+            return RedirectToPage(); 
+        }
     }
 }   

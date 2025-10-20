@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Celulares</title>
+    <link href="style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+   <header>
+        <h1>Bienvenido</h1>
+        <h2>Lista de Teléfonos</h2>
+    </header>
+
+    <main>
+        <div class="boton-agregar">
+            <button onclick="agregar()">➕ Agregar Teléfono</button>
+        </div>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Marca</th>
+                    <th>Modelo</th>
+                    <th>Precio</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Samsung</td>
+                    <td>Galaxy S24</td>
+                    <td>$950</td>
+                    <td>
+                        <button class="edit-btn" onclick="modificar()">✏️</button>
+                        <button class="delete-btn" onclick="abrirModal()">🗑️</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Apple</td>
+                    <td>iPhone 15</td>
+                    <td>$1200</td>
+                    <td>
+                        <button class="edit-btn" onclick="modificar()">✏️</button>
+                        <button class="delete-btn" onclick="abrirModal()">🗑️</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Xiaomi</td>
+                    <td>Redmi Note 13</td>
+                    <td>$450</td>
+                    <td>
+                        <button class="edit-btn" onclick="modificar()">✏️</button>
+                        <button class="delete-btn" onclick="abrirModal()">🗑️</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </main>
+
+    <!-- Modal de eliminación -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <p>¿Estás seguro que deseas eliminar este teléfono?</p>
+            <div class="modal-buttons">
+                <button class="confirmar" onclick="confirmarEliminacion()">Confirmar</button>
+                <button class="cancelar" onclick="cerrarModal()">Cancelar</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function abrirModal() {
+            document.getElementById('modal').style.display = 'flex';
+        }
+
+        function cerrarModal() {
+            document.getElementById('modal').style.display = 'none';
+        }
+
+        function confirmarEliminacion() {
+            alert("Teléfono eliminado correctamente.");
+            cerrarModal();
+        }
+
+        function modificar() {
+            window.location.href = "modificar.html";
+        }
+
+        function agregar() {
+            window.location.href = "crear.html";
+        }
+    </script>
+</body>
+</html>

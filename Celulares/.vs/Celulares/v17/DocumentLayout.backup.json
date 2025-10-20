@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{701763C8-7A7A-4AA9-8322-6AFCCB7C0BAC}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\celulares\\webapplication1\\pages\\viewcel\\listacelulares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{701763C8-7A7A-4AA9-8322-6AFCCB7C0BAC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\viewcel\\listacelulares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{701763C8-7A7A-4AA9-8322-6AFCCB7C0BAC}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\celulares\\webapplication1\\pages\\viewcel\\modificarcelulares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{701763C8-7A7A-4AA9-8322-6AFCCB7C0BAC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\viewcel\\modificarcelulares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701763C8-7A7A-4AA9-8322-6AFCCB7C0BAC}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\documents\\github\\programacion-ii--me-\\celulares\\webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{701763C8-7A7A-4AA9-8322-6AFCCB7C0BAC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "listaCelulares.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\WebApplication1\\Pages\\ViewCel\\listaCelulares.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\ViewCel\\listaCelulares.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\WebApplication1\\Pages\\ViewCel\\listaCelulares.cshtml",
-              "RelativeToolTip": "WebApplication1\\Pages\\ViewCel\\listaCelulares.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADcAAAAkAAAAAAAAAA==",
+              "Title": "Modificarcelulares.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\WebApplication1\\Pages\\ViewCel\\Modificarcelulares.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\ViewCel\\Modificarcelulares.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\WebApplication1\\Pages\\ViewCel\\Modificarcelulares.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\ViewCel\\Modificarcelulares.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-16T18:37:25.917Z",
+              "WhenOpened": "2025-10-20T16:59:05.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Programacion-II--me-\\Celulares\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T16:54:04.029Z",
               "EditorCaption": ""
             }
           ]
