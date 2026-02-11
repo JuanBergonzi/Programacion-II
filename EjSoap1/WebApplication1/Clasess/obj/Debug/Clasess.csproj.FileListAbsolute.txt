@@ -1,6 +1,0 @@
-C:\Users\HP\Documents\GitHub\Programacion-II\WebApplication1\Clasess\bin\Debug\Clasess.dll
-C:\Users\HP\Documents\GitHub\Programacion-II\WebApplication1\Clasess\bin\Debug\Clasess.pdb
-C:\Users\HP\Documents\GitHub\Programacion-II\WebApplication1\Clasess\obj\Debug\Clasess.csproj.AssemblyReference.cache
-C:\Users\HP\Documents\GitHub\Programacion-II\WebApplication1\Clasess\obj\Debug\Clasess.csproj.CoreCompileInputs.cache
-C:\Users\HP\Documents\GitHub\Programacion-II\WebApplication1\Clasess\obj\Debug\Clasess.dll
-C:\Users\HP\Documents\GitHub\Programacion-II\WebApplication1\Clasess\obj\Debug\Clasess.pdb

@@ -1,5 +1,0 @@
-celulares,
-cod
-marca
-modelo
-precio
